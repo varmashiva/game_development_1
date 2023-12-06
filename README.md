@@ -1,1 +1,3 @@
-# game_development_1
+# Project Numeron
+
+Project Numeron is a number based game
